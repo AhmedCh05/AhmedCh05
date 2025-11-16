@@ -14,14 +14,7 @@
 ## 🔥 Recent Pull Requests
 [![Watch Pull Requests](https://github-readme-activity-graph.vercel.app/graph?username=AhmedCh05&theme=react-dark&area=true&hide_border=true)](https://github.com/AhmedCh05)
 
-## 📬 Latest PRs Created by My Commit Bot
-![Latest PRs](https://github-contributions-widget.vercel.app/api/prs?username=AhmedCh05)
-
-## 🐞 Latest Issues Created
-![Latest Issues](https://github-contributions-widget.vercel.app/api/issues?username=AhmedCh05)
-
-
-## 📈 GitHub Activity Graph (Auto Updates)
+## 📈 GitHub Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedCh05&theme=react-dark&area=true)
 
 ## 🏆 GitHub Trophies
