@@ -11,6 +11,18 @@
 ![](https://github-readme-stats.vercel.app/api?username=AhmedCh05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedCh05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedCh05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔥 Recent Pull Requests
+[![Watch Pull Requests](https://github-readme-activity-graph.vercel.app/graph?username=AhmedCh05&theme=react-dark&area=true&hide_border=true)](https://github.com/AhmedCh05)
+
+## 📬 Latest PRs Created by My Commit Bot
+![Latest PRs](https://github-contributions-widget.vercel.app/api/prs?username=AhmedCh05)
+
+## 🐞 Latest Issues Created
+![Latest Issues](https://github-contributions-widget.vercel.app/api/issues?username=AhmedCh05)
+
+
+## 📈 GitHub Activity Graph (Auto Updates)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedCh05&theme=react-dark&area=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedCh05&theme=radical&no-frame=true&no-bg=false&margin-w=4)
