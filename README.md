@@ -67,8 +67,8 @@ const ahmed = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Live |
-|---------|-------------|------------|------|
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
 | 🤖 **BaayanAI** | AI health companion with RAG & custom LLM. 500+ users tested. | React, Python, RAG, LLM, MySQL
 | 💬 **MultiuserGPT** | Multi-tenant OpenAI SaaS platform with real-time streaming | Vue.js, Node.js, PostgreSQL, GPT-4 
 | 🏢 **Company ERP** | Full-stack ERP: HR, Inventory, Finance, Sales — 4 user roles | React, TypeScript, Node.js, PostgreSQL 
