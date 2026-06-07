@@ -69,12 +69,12 @@ const ahmed = {
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|------------|------|
-| 🤖 **BaayanAI** | AI health companion with RAG & custom LLM. 500+ users tested. | React, Python, RAG, LLM, MySQL | [Demo](https://baayanai.vercel.app) |
-| 💬 **MultiuserGPT** | Multi-tenant OpenAI SaaS platform with real-time streaming | Vue.js, Node.js, PostgreSQL, GPT-4 | [Demo](https://multigpt.vercel.app) |
-| 🏢 **Company ERP** | Full-stack ERP: HR, Inventory, Finance, Sales — 4 user roles | React, TypeScript, Node.js, PostgreSQL | [Demo](https://company-erp.vercel.app) |
-| 📋 **Hello Habibi** | Form & feedback SaaS with 3-tier RBAC. 60% faster processing | React, Node.js, PostgreSQL, JWT | [Demo](https://hello-habibi.vercel.app) |
-| 🛒 **Bird Aviary** | Full MERN e-commerce. 1000+ transactions, dual-app architecture | React, Node.js, MongoDB, Stripe | [Demo](https://bird-aviary.vercel.app) |
-| ☁️ **AWS Serverless Auth** | Cloud-native auth: Lambda + RDS + SNS. 10K+ concurrent users | AWS Lambda, S3, RDS, SNS, API Gateway | [Repo](https://github.com/AhmedCh05) |
+| 🤖 **BaayanAI** | AI health companion with RAG & custom LLM. 500+ users tested. | React, Python, RAG, LLM, MySQL
+| 💬 **MultiuserGPT** | Multi-tenant OpenAI SaaS platform with real-time streaming | Vue.js, Node.js, PostgreSQL, GPT-4 
+| 🏢 **Company ERP** | Full-stack ERP: HR, Inventory, Finance, Sales — 4 user roles | React, TypeScript, Node.js, PostgreSQL 
+| 📋 **Hello Habibi** | Form & feedback SaaS with 3-tier RBAC. 60% faster processing | React, Node.js, PostgreSQL, JWT 
+| 🛒 **Bird Aviary** | Full MERN e-commerce. 1000+ transactions, dual-app architecture | React, Node.js, MongoDB, Stripe 
+| ☁️ **AWS Serverless Auth** | Cloud-native auth: Lambda + RDS + SNS. 10K+ concurrent users | AWS Lambda, S3, RDS, SNS, API Gateway 
 
 </div>
 
